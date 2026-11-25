@@ -15,7 +15,7 @@ class CalculadoraTest {
 		float resultado = new Calculadora().somar(4f, 4f);
 		
 		// assert
-		Assertions.assertEquals(8f, resultado);
+		Assertions.assertEquals(9f, resultado);
 	}
 
 }
