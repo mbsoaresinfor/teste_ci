@@ -3,6 +3,6 @@ package testeci;
 public class Calculadora {
 
 	public float somar(float a, float b) {
-		return a + 
+		return a + b;
 	}
 }
