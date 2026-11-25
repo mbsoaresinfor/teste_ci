@@ -3,4 +3,14 @@
   <groupId>aula</groupId>
   <artifactId>testeci</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <!-- Source: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+  <dependencies>
+	<dependency>
+	    <groupId>org.junit.jupiter</groupId>
+	    <artifactId>junit-jupiter-api</artifactId>
+	    <version>6.1.3</version>
+	    <scope>test</scope>
+	</dependency>
+  </dependencies>
 </project>
